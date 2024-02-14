@@ -1,0 +1,17 @@
+contact:
+  email: ''
+  phone: ''
+name: ''
+publiccodeYmlVersion: '0.2'
+softwareOwned:
+- https://github.com/Geleiding-2/.github
+- https://github.com/Geleiding-2/Chatty
+softwareSupported:
+- software: https://github.com/Geleiding-2/.github
+  type: community
+- software: https://github.com/Geleiding-2/Chatty
+  type: community
+softwareUsed:
+- https://github.com/Geleiding-2/.github
+- https://github.com/Geleiding-2/Chatty
+website: ''
